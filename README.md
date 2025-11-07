@@ -114,7 +114,7 @@ Instead of drawing boxes from scratch, my pipeline:
 1. Clone repo
 
    ```bash
-   git clone https://github.com/Kalana-Gayan/semi-auto-labeling-pipeline.git
+   https://github.com/Sasanka-Maduwantha/Semi-Auto-Labeling-Pipeline-with-CVAT-YOLO.git
    cd semi-auto-labeling-pipeline
    ```
 2. Install dependencies
